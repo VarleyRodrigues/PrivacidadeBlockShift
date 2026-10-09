@@ -1,48 +1,69 @@
-Política de Privacidade — BlockShift
-Última atualização: 9 de outubro de 2026
-Esta Política de Privacidade descreve como o aplicativo BlockShift ("nós", "nosso" ou "aplicativo") lida com as informações dos usuários ao utilizar o nosso jogo em dispositivos Android.
-A sua privacidade é importante para nós. Ao utilizar o BlockShift, você concorda com a coleta e uso de informações de acordo com esta política.
+POLÍTICA DE PRIVACIDADE – XADREZ MASTER / CHESS LAB
 
-1. Coleta e Uso de Informações
+Última atualização: 27 de setembro de 2026
 
-a) Dados Pessoais Coletados Diretamente
-O BlockShift não coleta, solicita ou armazena nenhum dado de identificação pessoal diretamente (como nome, endereço de e-mail, número de telefone, localização física ou dados bancários). Não é necessário criar conta ou fazer login para jogar.
+A sua privacidade é fundamental para nós. Esta Política de Privacidade descreve como o aplicativo Xadrez (identificado pelo pacote chesslab.com) lida com as informações dos usuários ao ser utilizado.
+1. Informações sobre o Aplicativo
 
-b) Progresso do Jogo e Dados Locais
-Todas as informações relativas ao seu progresso no jogo (como níveis desbloqueados, contagem de movimentos e estrelas conquistadas) são armazenadas exclusivamente de forma local no seu dispositivo (SharedPreferences). Esses dados não são enviados para nossos servidores.
+O Xadrez é um jogo de tabuleiro clássico projetado para entretenimento e raciocínio lógico. O aplicativo permite jogar partidas contra a inteligência artificial (máquina) em 5 níveis de dificuldade ou no modo local para 2 jogadores no mesmo dispositivo.
 
-2. Serviços de Terceiros e Anúncios
-Para manter o jogo gratuito, o BlockShift utiliza serviços de parceiros de terceiros para exibição de anúncios publicitários. Esses parceiros podem coletar e utilizar dados anônimos e identificadores de dispositivos de acordo com suas próprias políticas de privacidade.
-Google AdMob (Google Play Services)
-Utilizamos o Google AdMob para exibir anúncios em banner durante a experiência de jogo. O SDK do AdMob pode coletar automaticamente informações como:
-• Identificador de Publicidade do Android (Advertising ID).
-• Endereço IP (usado para estimar a localização aproximada a nível de cidade/país).
-• Dados de interações com anúncios, desempenho e diagnósticos de falhas (crash logs).
-Para mais detalhes sobre como o Google utiliza e protege seus dados, acesse:
-• Política de Privacidade do Google
-• Como o Google usa dados quando você usa apps de parceiros
+O jogo funciona de forma local e offline para todas as partidas, não exigindo cadastro ou conexão com a internet para suas funcionalidades principais de jogo.
+2. Dados Pessoais Fornecidos pelo Usuário
 
-3. Permissões Solicitadas pelo Aplicativo
-O BlockShift solicita as seguintes permissões no dispositivo:
+O aplicativo NÃO solicita, NÃO coleta e NÃO armazena nenhum tipo de dado pessoal direto dos seus usuários.
 
-• INTERNET: Necessária para carregar os anúncios fornecidos pela rede de anúncios (Google AdMob).
+Isto significa que NÃO solicitamos e NÃO coletamos:
 
-• ACCESS_NETWORK_STATE: Necessária para verificar se o dispositivo possui conexão ativa à internet antes de tentar carregar anúncios.
-Nenhuma permissão sensível (como Câmera, Microfone, Armazenamento Externo, Contatos ou Localização Precisa GPS) é solicitada ou utilizada.
+    Nome, e-mail, telefone, CPF, endereço ou senhas.
+    Fotos, vídeos, contatos ou arquivos do dispositivo.
+    Localização precisa (GPS).
+    Dados financeiros, de pagamento ou cartão de crédito.
 
-4. Exclusão e Gerenciamento de Dados
-Como não armazenamos seus dados em servidores externos:
-• Progresso do Jogo: Você pode reiniciar todo o progresso armazenado no dispositivo a qualquer momento utilizando o botão "RESET PROGRESS" no menu principal do jogo, ou apagando os dados/cache do aplicativo nas configurações do seu dispositivo Android.
+Nenhum cadastro ou criação de conta é necessário para utilizar o aplicativo.
+3. Dados Coletados Automaticamente e Anúncios (Google AdMob)
 
-• Identificador de Anúncios: Você pode redefinir ou desativar os anúncios personalizados nas configurações do seu Android em Configurações -> Google -> Anúncios.
+O aplicativo NÃO possui servidores próprios e não realiza o armazenamento de informações dos usuários em bancos de dados privados.
 
-5. Privacidade de Crianças (COPPA e LGPD)
-O BlockShift é um jogo de quebra-cabeça projetado para o público geral. Não coletamos conscientemente informações de identificação pessoal de crianças menores de 13 anos (ou idade equivalente na sua jurisdição). Caso você seja pai/mãe ou responsável legal e saiba que seu filho nos forneceu informações sem seu consentimento, entre em contato conosco para que possamos tomar as medidas necessárias.
+No entanto, para manter o aplicativo gratuito, utilizamos o serviço de exibição de anúncios do Google AdMob. Ao estar conectado à internet, o SDK do Google AdMob pode coletar e processar automaticamente dados técnicos para a veiculação de publicidade, tais como:
 
-6. Alterações nesta Política de Privacidade
-Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos revisar esta página regularmente para verificar quaisquer alterações. A data da "Última atualização" no topo deste documento indicará quando as modificações foram feitas.
+    Identificadores de publicidade do dispositivo (Ex: Google Advertising ID).
+    Endereço IP (utilizado apenas para estimativa aproximada de região/país para exibição do anúncio correto).
+    Informações sobre o dispositivo (modelo, sistema operacional, idioma).
+    Dados de interação com os anúncios (visualizações e cliques).
 
-7. Contato
-Se você tiver dúvidas, sugestões ou preocupações sobre esta Política de Privacidade ou sobre o jogo BlockShift, entre em contato conosco:
-• Desenvolvedor: Help Lab
-• E-mail de Suporte: varley87@gmail.com
+Essa coleta é realizada diretamente pelo Google AdMob e está sujeita à Política de Privacidade do Google. O desenvolvedor do jogo não recebe nem armazena dados de identificação pessoal dos anúncios.
+4. Compartilhamento de Dados
+
+O desenvolvedor NÃO vende, aluga, troca ou compartilha dados pessoais de usuários com terceiros. Todas as informações técnicas processadas por parceiros de publicidade (Google AdMob) seguem estritamente as políticas da plataforma do Google.
+5. Armazenamento e Segurança
+
+Todas as preferências do jogo (como nível de dificuldade selecionado e histórico da partida atual) são armazenadas exclusivamente na memória local do dispositivo do usuário e são apagadas caso o aplicativo seja desinstalado.
+
+Nenhum dado do jogo é transmitido para servidores externos do desenvolvedor.
+6. Retenção e Exclusão de Dados
+
+Como não coletamos dados pessoais nem mantemos contas de usuário, não há registros ou dados pessoais armazenados em nossos servidores para serem excluídos.
+
+Caso deseje remover todas as configurações e históricos locais do jogo, basta limpar os dados do aplicativo nas configurações do seu dispositivo Android ou desinstalar o jogo.
+7. Privacidade de Crianças
+
+O Xadrez é um jogo adequado para todas as idades, incluindo crianças e famílias. O aplicativo não coleta intencionalmente informações de identificação pessoal de crianças. Os anúncios veiculados pelo Google AdMob são configurados de acordo com as diretrizes e políticas de conteúdo para famílias da Google Play Store.
+8. Conectividade
+
+O núcleo do jogo (tabuleiro, regras de xadrez, inteligência artificial com 5 níveis e modo 2 jogadores) funciona 100% offline. A conexão com a internet é utilizada exclusivamente para a exibição dos anúncios fornecidos pelo Google AdMob.
+9. Serviços de Terceiros
+
+Esta Política de Privacidade aplica-se apenas ao aplicativo Xadrez. Para saber mais sobre como o Google coleta e processa os dados de anúncios, consulte:
+
+    Política de Privacidade da Google
+    Como a Google utiliza dados quando você usa apps de parceiros
+
+10. Alterações nesta Política de Privacidade
+
+Podemos atualizar nossa Política de Privacidade periodicamente. Qualquer alteração será refletida nesta página com a atualização da data de "Última atualização". Recomendamos consultar esta política regularmente.
+11. Contato e Identificação do Desenvolvedor
+
+Se você tiver dúvidas, sugestões ou solicitações sobre esta Política de Privacidade ou sobre o aplicativo, entre em contato pelo e-mail:
+
+📧 E-mail de Contato: Varley87@gmail.com
+📱 Aplicativo: Xadrez (chesslab.com)
